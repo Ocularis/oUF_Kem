@@ -1,0 +1,8 @@
+## Interface: 30000
+## Author: Ocularis
+## Title: oUF_Kem
+## Version: 1.0.0
+## OptionalDeps: oUF_PowerSpark, oUF_DebuffHighlight, oUF_Banzai, oUF_BarFader
+## RequiredDeps: oUF
+
+layout.lua
